@@ -2,9 +2,19 @@
 ZeroByte.ID
 Scan Subdomain of a Website
 
-Usage :
-python subdomain.py website.com
+How to Install ?
+> pip install urllib3 
 
-e.g :
-> python subdomain.py -d zerobyte.id
-> 
+> pip install re
+
+> pip install json
+
+> pip install time
+
+> git clone https://github.com/indrha7x/sub-scanner.git
+
+How to Use ?
+
+> cd sub-scanner
+
+> python subdomain.py
