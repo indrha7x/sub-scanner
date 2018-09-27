@@ -2,11 +2,12 @@
 ZeroByte.ID
 Scan Subdomain of a Website
 
-Usege :
+Usage :
 python subdomain.py website.com
 
 e.g :
 > python subdomain.py -d zerobyte.id
+<br>
  _   ___                  _   _     
 | | / (_)                | | | |    
 | |/ / _ _ __ _ __   __ _| |_| |__  
