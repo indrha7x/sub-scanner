@@ -1,16 +1,12 @@
-# /lib/usr/Python
+# /usr/lib/python
 # Kirnath Morscheck
 # ZeroByte.ID
 import sys
 import requests
 import urllib3
 import re
-import argparse
-import gevent
 import json
 import time
-from gevent import socket
-from gevent.pool import Pool
 from termcolor import colored
 from pprint import pprint
 from colorama import Fore, Back, Style
