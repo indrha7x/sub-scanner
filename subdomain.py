@@ -110,7 +110,7 @@ def main():
 	
 	else:
 		print "[+] Okay, Im Exit Baby...."
-		time.sleep(1)
+		sys.exit(2)
 	tanya = str(raw_input("[+] Do you want to save this result?(y/n): "))
 	time.sleep(0.5)
 	if tanya == 'y':
